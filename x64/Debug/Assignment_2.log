@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Brian L. Duong\Desktop\Main Folder\Projects\COMP-SCI 303\Assignment_2\stack.h(45,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian L. Duong\Desktop\Main Folder\Projects\COMP-SCI 303\Assignment_2\stack.h(37,7): message : while compiling class template member function 'void stack<int>::print(void)'
+C:\Users\Brian L. Duong\Desktop\Main Folder\Projects\COMP-SCI 303\Assignment_2\main.cpp(26,15): message : see the first reference to 'stack<int>::print' in 'main'
+C:\Users\Brian L. Duong\Desktop\Main Folder\Projects\COMP-SCI 303\Assignment_2\main.cpp(8,13): message : see reference to class template instantiation 'stack<int>' being compiled
+  Assignment_2.vcxproj -> C:\Users\Brian L. Duong\Desktop\Main Folder\Projects\COMP-SCI 303\Assignment_2\x64\Debug\Assignment_2.exe
